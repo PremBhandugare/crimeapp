@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1054669743140",
+    "project_id": "crime-7dc13",
+    "storage_bucket": "crime-7dc13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054669743140:android:ccf6bc8e29ac3f37f7a4b1",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSCiewB3uMypHgdvqI45BwplMBvfoGg80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054669743140:android:75ec97669c8a4ecdf7a4b1",
+        "android_client_info": {
+          "package_name": "com.example.crimeap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSCiewB3uMypHgdvqI45BwplMBvfoGg80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054669743140:android:05cb1b8c11d3636ef7a4b1",
+        "android_client_info": {
+          "package_name": "com.example.crimeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSCiewB3uMypHgdvqI45BwplMBvfoGg80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
